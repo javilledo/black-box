@@ -29,8 +29,3 @@ def generar_contrasenya(longitud: int) -> str:
 generar_contrasenya(10)
 generar_contrasenya(6)
 generar_contrasenya(2)
-
-
-
-
-
