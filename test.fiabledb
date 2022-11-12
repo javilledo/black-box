@@ -1,18 +1,50 @@
 [
     {
         "id": 1,
+        "rev": 1,
         "value": {
             "nombre": "Blanca",
             "edad": 34
-        },
-        "version": 0
+        }
     },
     {
         "id": 2,
+        "rev": 1,
         "value": {
             "nombre": "Juan",
             "edad": 22
-        },
-        "version": 0
+        }
+    },
+    {
+        "id": 3,
+        "rev": 1,
+        "value": {
+            "nombre": "María",
+            "edad": 34
+        }
+    },
+    {
+        "id": 4,
+        "rev": 2,
+        "value": {
+            "nombre": "Juan",
+            "edad": 22
+        }
+    },
+    {
+        "id": 5,
+        "rev": 1,
+        "value": {
+            "nombre": "Marcos",
+            "edad": 49
+        }
+    },
+    {
+        "id": 6,
+        "rev": 3,
+        "value": {
+            "nombre": "Juan",
+            "edad": 22
+        }
     }
 ]
